@@ -17,7 +17,7 @@ Un proyecto que nació en el Hackathon "HackatecNM", que ayuda a los viajeros a 
 Un videojuego de realidad virtual desarrollado para los Meta Quest que busca preservar la historia y el legado de la cultura maya.
 
 ### [Datahive](https://github.com/tuusuario/datahive)
-Un sistema de análisis y visualización de datos, que permite a las empresas tomar decisiones basadas en datos precisos y en tiempo real.
+Un gestor de base de datos de Firebird que permite realizar migraciones entre Firebird y MySQL. Este proyecto facilita la gestión y transferencia de datos entre diferentes sistemas de bases de datos.
 
 ### [Gestor de Cartera de Clientes](https://github.com/tuusuario/gestor-cartera-clientes)
 Un sistema de gestión de clientes desarrollado como parte de un proyecto grupal. Usé tecnologías como C#, MySQL y Guna UI para crear una interfaz intuitiva y una base de datos eficiente.
