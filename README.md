@@ -10,7 +10,7 @@ Una aplicacion movil que permite gestionar a los clientes sus contratos de servi
 ### [LockBox](https://github.com/D3K0D3R24/LockBox)
 Una aplicación de seguridad para almacenar y gestionar contraseñas y datos sensibles de manera segura.
 
-### [One Travie](https://github.com/tuusuario/one-travie)
+### [One Travie](https://github.com/D3K0D3R24/OneTravie)
 Un proyecto que nació en el Hackathon "HackatecNM", que ayuda a los viajeros a encontrar los mejores destinos y organizar sus viajes de forma eficiente y de una manera divertida usando AR.
 
 ### [Legado Maya - Videojuego]()
