@@ -4,7 +4,7 @@ Soy un estudiante con especialidad en Ingenieria de Software con experiencia en 
 
 ## 🚀 Proyectos Destacados
 
-### [Conecta-T](https://github.com/tuusuario/conecta-t)
+### [Conecta-T](https://github.com/D3K0D3R24/Conecta-T)
 Una aplicacion movil que permite gestionar a los clientes sus contratos de servicio de internet.
 
 ### [LockBox](https://github.com/D3K0D3R24/LockBox)
