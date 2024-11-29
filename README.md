@@ -1,6 +1,6 @@
 # ¡Hola! Soy Moises Sierra 👋
 
-Soy un ingeniero de software con experiencia en [C#](https://es.wikipedia.org/wiki/C%23), [Python](https://www.python.org/), [Kotlin](https://kotlinlang.org/), y [Java](https://www.java.com/es/). Me apasiona el desarrollo de software y me especializo en programación y gestión de equipos. Actualmente, estoy enfocado en proyectos de desarrollo de videojuegos y aplicaciones web.
+Soy un ingeniero de software con experiencia en [C#](https://es.wikipedia.org/wiki/C%23), [Python](https://www.python.org/), [Kotlin](https://kotlinlang.org/), y [Java](https://www.java.com/es/). Me apasiona el desarrollo de software y me especializo en programación y gestión de equipos. Actualmente, estoy enfocado en proyectos de desarrollo de videojuegos, aplicaciones web y soluciones innovadoras.
 
 ## 🚀 Proyectos Destacados
 
@@ -10,11 +10,17 @@ Un sistema de gestión de clientes desarrollado como parte de un proyecto grupal
 ### [Legado Maya - Videojuego](https://github.com/tuusuario/legado-maya)
 Un videojuego que combina mecánicas tradicionales con cultura maya. Fue desarrollado para un hackathon y ganamos en la etapa local.
 
-### [Sistema de Nado en VR](https://github.com/tuusuario/sistema-nado-vr)
-Un proyecto en Unity con mecánicas de nado en VR, utilizando UltimateXR para mejorar la interacción del jugador.
+### [Conecta-T](https://github.com/tuusuario/conecta-t)
+Una plataforma de comunicación y conexión para profesionales y estudiantes, diseñada para mejorar el networking y las oportunidades de colaboración.
 
-### [Aplicación de Water Shader](https://github.com/tuusuario/water-shader)
-Un shader de agua dinámico y realista en Unity, con características como normales, efectos de ondas y partículas.
+### [One Travie](https://github.com/tuusuario/one-travie)
+Un proyecto que nació en el Hackathon "HackatecNM", que ayuda a los viajeros a encontrar los mejores destinos y organizar sus viajes de forma eficiente.
+
+### [LockBox](https://github.com/tuusuario/lockbox)
+Una aplicación de seguridad para almacenar y gestionar contraseñas y datos sensibles de manera segura, utilizando técnicas de encriptación de última generación.
+
+### [Datahive](https://github.com/tuusuario/datahive)
+Un sistema de análisis y visualización de datos, que permite a las empresas tomar decisiones basadas en datos precisos y en tiempo real.
 
 ## 💻 Habilidades
 
