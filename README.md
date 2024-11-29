@@ -13,7 +13,7 @@ Una aplicación de seguridad para almacenar y gestionar contraseñas y datos sen
 ### [One Travie](https://github.com/tuusuario/one-travie)
 Un proyecto que nació en el Hackathon "HackatecNM", que ayuda a los viajeros a encontrar los mejores destinos y organizar sus viajes de forma eficiente y de una manera divertida usando AR.
 
-### [Legado Maya - Videojuego](https://github.com/tuusuario/legado-maya)
+### [Legado Maya - Videojuego]()
 Un videojuego de realidad virtual desarrollado para los Meta Quest que busca preservar la historia y el legado de la cultura maya.
 
 ### [Datahive](https://github.com/D3K0D3R24/Datahive)
