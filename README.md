@@ -1,6 +1,6 @@
 # ¡Hola! Soy Moises Sierra 👋
 
-Ingeniero de Software con experiencia en [Python](https://www.python.org/) [C#](https://dotnet.microsoft.com/es-es/languages/csharp), [Kotlin](https://kotlinlang.org/), y [Java](https://www.java.com/es/). Me apasiona el desarrollo de software. Actualmente, estoy enfocado en proyectos de desarrollo de aplicaciones moviles, desarrollo de videojuegos y crear soluciones innovadoras.
+Ingeniero de Software con experiencia en [Python](https://www.python.org/) [C#](https://dotnet.microsoft.com/es-es/languages/csharp), [Kotlin](https://kotlinlang.org/), y [Java](https://www.java.com/es/). Me apasiona el desarrollo de software. Actualmente, estoy enfocado en proyectos de desarrollo de aplicaciones moviles, en el desarrollo de un videojuego y busco ampliar mi experiencia profesional.
 
 ## 🚀 Proyectos Destacados
 
@@ -31,5 +31,5 @@ Un sistema de gestión de clientes desarrollado como parte de un proyecto grupal
 ## 📚 Educación
 
 - **Ingeniero de Software**: Actualmente, terminando mi carrera en ingeniería de software.
-- **Estudios en Canadá**: Programa de intercambio cultural y aprendizaje de inglés.
+- **Estudios en Canadá **: Programa de intercambio cultural y aprendizaje de inglés.
 
