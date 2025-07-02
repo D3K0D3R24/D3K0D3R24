@@ -24,8 +24,8 @@ Un sistema de gestión de clientes desarrollado como parte de un proyecto grupal
 
 ## 💻 Habilidades
 
-- **Lenguajes**: C#, Kotlin, Java
-- **Frameworks y Tecnologías**: Unity, Jetpack Compose, MySQL, Visual Studio Code
+- **Lenguajes**: Python, C#, Kotlin, Java
+- **Frameworks y Tecnologías**: Unity, Jetpack Compose, MySQL, PostgreSQL, Visual Studio Code, Django
 - **Metodologías Ágiles**: Scrum, Kanban
 
 ## 📚 Educación
@@ -33,4 +33,3 @@ Un sistema de gestión de clientes desarrollado como parte de un proyecto grupal
 - **Ingeniero de Software**: Actualmente, terminando mi carrera en ingeniería de software.
 - **Estudios en Canadá**: Programa de intercambio cultural y aprendizaje de inglés.
 
-Gracias por visitar mi perfil de GitHub. ¡Siéntete libre de explorar mis repositorios y contribuir a los proyectos!
